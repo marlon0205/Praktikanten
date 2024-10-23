@@ -1,2 +1,2 @@
 Inhalt:
-[[000_Aufgabe_Einstieg]] - [[000_Lösungen_Einstieg]]
+[000_Aufgaben_Einstieg](000_Aufgabe_Einstieg)
