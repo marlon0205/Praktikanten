@@ -45,6 +45,3 @@ zahl = 10; // Weist der Variable zahl den Wert 10 zu
 ```Java
 int zahl = 10; // Deklariert und initialisiert zahl in einem Schritt
 ```
-<br>
-
-Sicherlich fragst du dich was dieses ``int`` bedeutet.
