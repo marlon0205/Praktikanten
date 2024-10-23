@@ -5,17 +5,3 @@
 
 Die URL muss folgendermaßen aussehen:
 ``https://<PERSONAL_ACCESS_TOKEN>@github.com/marlon0205/InterGuide.git`` 
-
-
-
-
-Hier werden private Notizen, Mitschriebe und Übungsaufgaben sowie Tutorials gespeichert.
-
-
-Order Struktur:
-
-| Verzeichnis | Beschreibung                    |
-| ----------- | ------------------------------- |
-| school / 01 | Erstes Jahr Berufsschule @ WVSS |
-| edu / ...   | Übungsaufgaben / Tutorials      |
-
