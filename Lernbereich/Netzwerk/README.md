@@ -1,7 +1,7 @@
 # Übersicht der gängigen Netzwerkgerät und Begriffe 
 
 ## Aktive Netzwerkkomponenten
-### 1.Router
+### 1. Router
 **Funktion:** Ein Router ist dafür zuständig, mehrere Netzwerke miteinander zu verbinden und ankommende Datenpakete weiterzuleiten. 
 Hierbei werden verschiedene Kriterien berücksichtigt, um die geeignetste Route zum Zielrechner auszuwählen.
 Insbesondere verbindet ein Router Heimnetzwerke mit dem Internet.
@@ -52,7 +52,7 @@ Hiermit werden Verlegekabel an einer zentralen Stelle zusammengeführt, um bei k
 ### 3. DHCP (Dynamic Host Configuration Protocol)
 **Funktion:** Zuweisung von IP-Adressen und anderen Netzwerkeinstellungen an Geräte im Netzwerk. Im Gegensatz zur statischen Vergabe von IP-Adressen, läuft hier alles automatisch ab.
 
-### 4.VLAN (Virtual Local Area Network)
+### 4. VLAN (Virtual Local Area Network)
 **Funktion:** Ermöglicht die Trennung von Netzwerken innerhalb der gleichen physikalischen Infrastruktur.
 
 ### 5. MAC-Adresse (Media-Access-Control-Adresse)
@@ -62,9 +62,14 @@ Hiermit werden Verlegekabel an einer zentralen Stelle zusammengeführt, um bei k
 **Funktion:** Stellt eine sichere Verbindung über ein öffentliches Netzwerk her, sodass Daten privat übertragen werden.
 **Beispiel:** Zugriff auf ein Unternehmensnetzwerk von zu Hause aus.
 
-### 7.Subnetz
+### 7. Subnetz
 **Funktion:** Ein Teil eines größeren Netzwerks, der durch eine Subnetzmaske definiert wird. Ermöglicht die Organisation und Verwaltung von IP-Adressen.
 
-### 
+### 8. Client-Server-Model
+**Funktion:** Beschreibt die Interaktion zwischen Client (bsp. Desktop-PC zuhause) und Server. Der Client sendet eine Anfrage an der Server. Der Server empfängt und verarbeitet die Anfrage. Dann wird die Anfrage weiter verarbeitet und schließlich die Antwort 
+zurück an den Client gesendet.
+**Beispiel:** Stell dir vor du möchtest eine Webseite besuchen. Du gibst die URL in deinen Webbrowser ein (Client). Der Browser sendet eine Anfrage an den Webserver, der die Webseite hostet. Der Webserver empfängt die Anfrage, findet die angeforderte Seite und sendet sie zurück an den Brwoser. Schließlich zeigt dein Browser die Webseite an.
 
+### 9. MESH-Netzwerk
+**Funktion:** Ein MESH-Netzwerk ist eine Art von Netzwerk, bei dem mehrere Geräte (sogenannte Knoten) miteinander verbunden sind, um eine nahtlose und weitreichende Abdeckung zu gewährleisten.
 
