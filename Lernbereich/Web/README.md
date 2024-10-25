@@ -3,10 +3,10 @@
 
 ### Nützliche Links
 HTML lernen:
-[HTML Lernen](https://de.w3docs.com/html-lernen.html?form=MG0AV3)
-[HTML Programmieren lernen: Alle Infos zum Einstieg ►](https://lerneprogrammieren.com/html-programmieren-lernen/?form=MG0AV3)
-[HTML lernen: Das große Einsteiger-Tutorial - IONOS](https://www.ionos.de/digitalguide/websites/web-entwicklung/html-lernen-das-grosse-einsteiger-tutorial/?form=MG0AV3)
-[HTML 5 für Einsteiger](https://www.html5.wirlernen.at/?form=MG0AV3)
+- [HTML Lernen](https://de.w3docs.com/html-lernen.html?form=MG0AV3)
+- [HTML Programmieren lernen: Alle Infos zum Einstieg ►](https://lerneprogrammieren.com/html-programmieren-lernen/?form=MG0AV3)
+- [HTML lernen: Das große Einsteiger-Tutorial - IONOS](https://www.ionos.de/digitalguide/websites/web-entwicklung/html-lernen-das-grosse-einsteiger-tutorial/?form=MG0AV3)
+- [HTML 5 für Einsteiger](https://www.html5.wirlernen.at/?form=MG0AV3)
 
 Browser-Spiele für HTML / CSS:
 1. [Flexbox Froggy](https://hellocoding.de/blog/coding-language/allgemein/programmieren-lernen-mit-spielen?form=MG0AV3): Ein Spiel, das dir das Lernen von Flexbox CSS erleichtert.
