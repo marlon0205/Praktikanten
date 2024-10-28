@@ -7,7 +7,7 @@ tags:
 
 # Übersicht der gängigen Netzwerkgerät und Begriffe 
 
-![Netzwerk] (Bild1.png)
+![Netzwerk](Bild1.png)
 
 ## Aktive Netzwerkkomponenten
 ### 1. Router
