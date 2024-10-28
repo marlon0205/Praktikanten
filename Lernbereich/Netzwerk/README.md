@@ -51,7 +51,7 @@ Eine andere Funktion von Repeatern ist das Entfernen von Signalstörungen (Rausc
 **Funktion:** Ein Patchfeld, auch Rangierfeld genannt, ist ein Verbindungselement für Kabel, das aus vielen durchnummerierten Ports besteht. 
 Hiermit werden Verlegekabel an einer zentralen Stelle zusammengeführt, um bei komplexen Kabelstrukturen den Überblick zu behalten.
 
-[Patch-Kabel](images/Bild2.png) [Patch-Feld](images/Bild3.png)
+![Patch-Kabel](images/Bild2.png) ![Patch-Feld](images/Bild3.png)
 
 ## Wichtige Begriffe
 ### 1. IP-Adresse
