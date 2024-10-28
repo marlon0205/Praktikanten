@@ -1,3 +1,9 @@
+---
+tags:
+- Netzwerk
+- Netzwerkgeräte
+---
+
 # Übersicht der gängigen Netzwerkgerät und Begriffe 
 
 ## Aktive Netzwerkkomponenten
