@@ -7,6 +7,8 @@ tags:
 
 # Übersicht der gängigen Netzwerkgerät und Begriffe 
 
+![Netzwerk](Bild1.png)
+
 ## Aktive Netzwerkkomponenten
 ### 1. Router
 **Funktion:** Ein Router ist dafür zuständig, mehrere Netzwerke miteinander zu verbinden und ankommende Datenpakete weiterzuleiten. 
