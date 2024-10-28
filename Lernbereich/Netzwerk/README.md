@@ -63,7 +63,7 @@ Hiermit werden Verlegekabel an einer zentralen Stelle zusammengeführt, um bei k
 **Funktion:** Ermöglicht die Trennung von Netzwerken innerhalb der gleichen physikalischen Infrastruktur.
 
 ### 5. MAC-Adresse (Media-Access-Control-Adresse)
-**Funktion:** Ist die eindeutig identifizierbare Nummer eines Geräts auf einer Datenverbindung. Anhand dieser Nummer werden über die Verbindung laufende Daten den Geräten zugeordnet.
+**Funktion:** Ist die **eindeutig identifizierbare** Nummer eines Geräts auf einer Datenverbindung. Anhand dieser Nummer werden über die Verbindung laufende Daten den Geräten zugeordnet.
 
 ### 6. VPN (Virtual Private Network)
 **Funktion:** Stellt eine sichere Verbindung über ein öffentliches Netzwerk her, sodass Daten privat übertragen werden.
