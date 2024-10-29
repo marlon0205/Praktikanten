@@ -21,3 +21,11 @@
 
 ### (Optional) weitere Plugins
 
+<br/>
+
+## Praktikant weg - nun was?
+- Persönliche Dateien entfernen
+  - Hevoragende Lösungen gerne behalten
+- Intellij / PyCharm Projekte löschen
+- VM Löschen
+- Docker Container Löschen
