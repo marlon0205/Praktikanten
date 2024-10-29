@@ -4,7 +4,6 @@ tags:
   - web
   - css
   - einführung
-Zuständig: Marlon
 ---
 
 
