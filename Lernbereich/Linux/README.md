@@ -1,7 +1,6 @@
 ---
 tags:
-  - 
-Zuständig: Avery
+
 ---
 
 
