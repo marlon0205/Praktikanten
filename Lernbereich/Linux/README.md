@@ -5,7 +5,7 @@ Zuständig: Avery
 ---
 
 
-![]([https://i.ibb.co/0m1PFVz/linux-logo-icon-171222.png](https://i.ibb.co/mSmGb1M/linux2-png.webp) 
+![]([https://i.ibb.co/mSmGb1M/linux2-png.webp])
 
 Hallo und herzlich willkommen! Heute werden wir uns mit Linux beschäftigen, einem Betriebssystem, das in vielen Unternehmen und auf Servern weltweit verwendet wird. Keine Sorge, auch wenn du noch keine Vorkenntnisse hast, werden wir alles Schritt für Schritt durchgehen.
 
