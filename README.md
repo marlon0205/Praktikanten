@@ -10,7 +10,7 @@
 | Bereich | Beschreibung |
 | --- | --- |
 | Lernbereich | Hier findest du verschiedene Themen. In diesen findest du Dokumentationen, Aufgaben und derren Lösungen |
-| Allgemeines | todo |
+| Allgemeines | Hier findest du allgemeine Informationen, wie z.B. installierte Software |
 
 <br/>
 
