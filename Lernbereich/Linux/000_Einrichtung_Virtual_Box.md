@@ -1,4 +1,10 @@
-# Einrichtung einer Virtual Box
+# VirtualBox
+## Was ist eine VirtualBox?
+Eine VirtualBox ist ein Programm, mit dem du auf deinem Computer virtuelle Maschinen erstellen und betreiben kannst. Das bedeutet, du kannst ein komplettes Betriebssystem (wie Windows, Linux oder macOS) innerhalb deines aktuellen Betriebssystems laufen lassen, ohne dass du einen zweiten Computer benötigst. Es ist wie ein Computer im Computer
+
+
+
+## Einrichtung einer VirtualBox
 
 1. **Neue virtuelle Maschine erstellen**:
    - Öffne VirtualBox und klicke auf "Neu".
