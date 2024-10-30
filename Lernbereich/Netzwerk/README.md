@@ -72,7 +72,7 @@ Hiermit werden Verlegekabel an einer zentralen Stelle zusammengeführt, um bei k
 
 ### 8. Client-Server-Model
 **Funktion:** Beschreibt die Interaktion zwischen Client (bsp. Desktop-PC zuhause) und Server. Der Client sendet eine Anfrage an der Server. Der Server empfängt und verarbeitet die Anfrage. Dann wird die Anfrage weiter verarbeitet und schließlich die Antwort 
-zurück an den Client gesendet.
+zurück an den Client gesendet.<br/>
 **Beispiel:** Stell dir vor du möchtest eine Webseite besuchen. Du gibst die URL in deinen Webbrowser ein (Client). Der Browser sendet eine Anfrage an den Webserver, der die Webseite hostet. Der Webserver empfängt die Anfrage, findet die angeforderte Seite und sendet sie zurück an den Brwoser. Schließlich zeigt dein Browser die Webseite an.
 
 ### 9. MESH-Netzwerk
