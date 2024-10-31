@@ -7,4 +7,4 @@
 + [x] Docker Desktop
 + [x] Podman
 + [x] Throny
-+ [x] LibreOffice 🤢
++ [x] LibreOffice 

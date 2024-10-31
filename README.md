@@ -19,7 +19,7 @@
 ---
 # Für die Betreuer
 ## Wie klone ich das Projekt?
-[The Easiest Way to Setup Obsidian Git (to backup notes) - Share & showcase - Obsidian Forum](https://forum.obsidian.md/t/the-easiest-way-to-setup-obsidian-git-to-backup-notes/51429)
+[GIT in Obsidian Tutorial](https://forum.obsidian.md/t/the-easiest-way-to-setup-obsidian-git-to-backup-notes/51429)
 
 Folgendes muss in die ``.git/config`` eingefügt werden. .git ist ein Ausgeblendeter Ordner.
 ```
