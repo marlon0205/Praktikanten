@@ -1,4 +1,4 @@
-+ [x] Visual Studio Code
+- [x] Visual Studio Code
 + [x] Intellij CE
 + [x] PyCharm CE
 + [x] PhpStorm
