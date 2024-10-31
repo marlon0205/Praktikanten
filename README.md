@@ -21,7 +21,7 @@
 ## Wie klone ich das Projekt?
 [The Easiest Way to Setup Obsidian Git (to backup notes) - Share & showcase - Obsidian Forum](https://forum.obsidian.md/t/the-easiest-way-to-setup-obsidian-git-to-backup-notes/51429)
 
-.git/config
+Folgendes muss in die ``.git/config`` eingefügt werden. .git ist ein Ausgeblendeter Ordner.
 ```
 ...
 [user]
@@ -33,8 +33,6 @@
 - EditingToolbar
 - Iconize
 - HTML Reader
-
-<br/>
 
 ## Zusammenarbeit
 Um unsere Arbeit zu erleichtern und angenehmer zu gestalten, haben wir beschlossen, dass immer nur eine Person an einem Thema arbeitet. Dies vermeidet Konflikte und macht es für die Praktikanten einfacher, das Thema zu verstehen, da alles im gleichen Format ist. <br/>
