@@ -8,7 +8,7 @@ aliases:
   - 000EIJ
 ---
 ## Einstieg in die Java Entwicklung
-Hier erkläre ich so gut es geht, wie die Java Entwicklung funktioniert.
+Hier findest du Dokumentation zum Einstieg in die Java Entwicklung.
 
 ## Was ist Java?
 Java ist eine Programmiersprache, die auf vielen Geräten funktioniert. Einmal schreiben, überall nutzen – das ist das Prinzip. Java wird für alles Mögliche genutzt, von Apps bis Webseiten.

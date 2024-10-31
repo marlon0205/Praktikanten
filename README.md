@@ -33,8 +33,12 @@
 - EditingToolbar
 - Iconize
 - HTML Reader
--
+
 <br/>
+
+## Zusammenarbeit
+Um unsere Arbeit zu erleichtern und angenehmer zu gestalten, haben wir beschlossen, dass immer nur eine Person an einem Thema arbeitet. Dies vermeidet Konflikte und macht es für die Praktikanten einfacher, das Thema zu verstehen, da alles im gleichen Format ist.
+Für Verbesserungsvorschläge, Rechtschreibfehler oder Ähnliches kann man entweder die Issues oder die Discussions nutzen. 
 
 ## Praktikant weg - nun was?
 - Persönliche Dateien entfernen
