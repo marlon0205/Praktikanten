@@ -6,3 +6,6 @@ Inhaltsverzeichnis
 	- IDEs
 	- Intellij IDEA Setup
 1. Einstieg in Java
+	- Was ist Java?
+	- Einfaches Hello World
+	- Variablen und Datentypen
