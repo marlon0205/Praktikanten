@@ -5,7 +5,7 @@ Inhaltsverzeichnis
 	- Was ist eine Entwicklungsumgebung
 	- IDEs
 	- Intellij IDEA Setup
-2. Einstieg in Java
+2. [Einstieg in Java](001_Einstieg_in_Java)
 	- Was ist Java?
 	- Einfaches Hello World
 	- Variablen und Datentypen
