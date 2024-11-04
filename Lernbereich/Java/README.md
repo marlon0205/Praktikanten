@@ -1,11 +1,11 @@
 
 
 Inhaltsverzeichnis
-0. [Entwicklungsumgebung](000_Entwicklungsumgebung)
+1. [Entwicklungsumgebung](000_Entwicklungsumgebung)
 	- Was ist eine Entwicklungsumgebung
 	- IDEs
 	- Intellij IDEA Setup
-1. Einstieg in Java
+2. Einstieg in Java
 	- Was ist Java?
 	- Einfaches Hello World
 	- Variablen und Datentypen
