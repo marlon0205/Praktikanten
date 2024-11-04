@@ -2,7 +2,7 @@
 Kontrollstrukturen ermöglichen es, den Ablauf eines Programms zu steuern. 
 Dazu gehören bedingte Anweisungen und Schleifen
 
-## Bedingte Anweisung
+## If-Abfrage
 ```java
 int zahlen = 10;
 if (zahl > 5) {
