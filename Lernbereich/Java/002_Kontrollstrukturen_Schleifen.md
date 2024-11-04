@@ -47,6 +47,7 @@ Die ``for``-Schleife ist besonders nützlich, wenn die Anzahl der Durchläufe im
 
 ```java
 for (int i = 0; i < 5; i++) {
+	//Schleifenkörper
     System.out.println("i ist: " + i);
 }
 ```
