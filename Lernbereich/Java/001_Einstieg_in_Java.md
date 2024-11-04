@@ -44,3 +44,28 @@ zahl = 10; // Weist der Variable zahl den Wert 10 zu
 ```Java
 int zahl = 10; // Deklariert und initialisiert zahl in einem Schritt
 ```
+
+Natürlich beschränken sich unsere Datentypen nicht nur auf Ganzzahlen. 
+* int : Ganzzahlen
+	```java 
+	int variablenName = 10;
+	```
+* double : Kommazahlen
+	```java
+	double variablenName = 12.4;
+	```
+* String : Zeichenkette
+	```java
+	String variablenName = "Hallo Welt!";
+	```
+* boolean : ja / nein oder true / false
+	```java
+	boolean variablenName = false;
+	boolean variablenName = true;
+	```
+* char : Textzeichen
+	```java
+	char variablenName = 'c';
+	```
+	
+Es gibt noch ein paar mehr Datentypen, aber für den Anfang können wir uns auf diese Beschränken. Weitere wirst du im verlaufe der Dokumentation erlernen.

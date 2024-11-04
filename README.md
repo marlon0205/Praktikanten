@@ -1,5 +1,5 @@
-# Prakikanten Github Repo
-> Hier finden sich Aufgaben / Lösungen und Erklärungen zu verschiedenen Bereiche.
+# Praktikanten Github Repo
+> Hier finden sich Aufgaben / Lösungen und Erklärungen zu verschiedenen Bereichen.
 
 <br/>
 
