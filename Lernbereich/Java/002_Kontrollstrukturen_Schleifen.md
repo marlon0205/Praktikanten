@@ -44,3 +44,14 @@ do {
 } while (i < 5);
 ```
 In diesem Beispiel wird der Code im Schleifenkörper mindestens einmal ausgeführt, auch wenn die Bedingung von Anfang an ``false`` wäre.
+
+<br/>
+
+### For-Schleife
+Die ``for``-Schleife ist besonders nützlich, wenn die Anzahl der Durchläufe im Voraus bekannt ist. Sie besteht aus 3 Hauptteilen. Die Initialisierung, die Bedingung, die Aktualisierung. 
+
+```java
+for (int i = 0; i < 5; i++) {
+    System.out.println("i ist: " + i);
+}
+```
