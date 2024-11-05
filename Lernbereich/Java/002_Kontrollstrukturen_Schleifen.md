@@ -51,3 +51,6 @@ for (int i = 0; i < 5; i++) {
     System.out.println("i ist: " + i);
 }
 ```
+
+Die ``for``-Schleife fängt ab einem wert ``i`` zuzählen. Die Schleife wird solange ausgeführt, wie die Bedingung in der Mitte erfüllt wird. Nachdem der Programmcode ausgeführt wurde, wird die Variable ``i`` um 1 erhöht.
+Was genau das ``i++`` macht und wie es benutzt wird, erkläre ich dir in folgendem Part: [Increments](todo).
