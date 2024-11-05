@@ -69,3 +69,26 @@ Natürlich beschränken sich unsere Datentypen nicht nur auf Ganzzahlen.
 	```
 	
 Es gibt noch ein paar mehr Datentypen, aber für den Anfang können wir uns auf diese Beschränken. Weitere wirst du im verlaufe der Dokumentation erlernen.
+
+### Besonderheiten
+#### Increments
+Der Post-Inkrement-Operator ``i++`` ist besonders nützlich, wenn man den aktuellen Wert einer Variablen verwenden und sie anschließend um 1 erhöhen möchte. Er besteht aus zwei Hauptteilen: der Verwendung des aktuellen Werts und der Erhöhung der Variablen.
+
+##### Syntax
+```java
+int i = 0;
+System.out.println(i++); // Ausgabe: 0
+System.out.println(i); // Ausgabe: 1
+```
+
+##### Funktionsweise
+1. Verwendung des aktuellen Werts: Der aktuell der Variable ``i`` wird verwendet.
+2. Wert der variable ``i`` wird um 1 erhöht. (gleich wie: ``i = i + 1;``)
+
+##### Beispiel
+```java
+int i = 0;
+System.out.println("Vor dem Inkrement: " + i); // Ausgabe: Vor dem Inkrement: 0
+System.out.println("Verwendung von i++: " + i++); // Ausgabe: Verwendung von i++: 0
+System.out.println("Nach dem Inkrement: " + i); // Ausgabe: Nach dem Inkrement: 1
+```
