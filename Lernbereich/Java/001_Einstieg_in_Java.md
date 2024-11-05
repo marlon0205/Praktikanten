@@ -13,6 +13,8 @@ Hier findest du Dokumentation zum Einstieg in die Java Entwicklung.
 ## Was ist Java?
 Java ist eine Programmiersprache, die auf vielen Geräten funktioniert. Einmal schreiben, überall nutzen – das ist das Prinzip. Java wird für alles Mögliche genutzt, von Apps bis Webseiten.
 
+<br/>
+
 ## Einfaches Hello World!
 ```java
 public class ErstesProgramm {
@@ -26,6 +28,8 @@ Hier sehen wir unsere erste Java-Klasse die den Namen ``ErstesProgramm`` trägt.
 ``public static void main(String[] args)`` ist unser Ausdruck für die main-Methode. Er ist auch unser Start des Programmes, unser Programm schreiben wir zwischen die geschweiften Klammern nach unserer main-Methode. 
 
 ``System.out.println("Hello world!")`` ist unser Ausdruck um etwas in die Konsole zuschreiben.
+
+<br/>
 
 ## Variablen und Datentypen
 Variablen kannst du dir wie Behälter vorstellen, in denen Daten gespeichert werden können. Man kann sich also Variablen wie Boxen vorstellen, die verschiedene Arten von Informationen enthalten. 
