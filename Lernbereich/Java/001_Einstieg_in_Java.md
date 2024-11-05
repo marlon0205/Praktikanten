@@ -10,6 +10,7 @@ aliases:
 ## Einstieg in die Java Entwicklung
 Hier findest du Dokumentation zum Einstieg in die Java Entwicklung.
 
+<br/>
 ## Was ist Java?
 Java ist eine Programmiersprache, die auf vielen Geräten funktioniert. Einmal schreiben, überall nutzen – das ist das Prinzip. Java wird für alles Mögliche genutzt, von Apps bis Webseiten.
 
