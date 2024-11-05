@@ -25,6 +25,7 @@ public class ErstesProgramm {
 ```
 
 Hier sehen wir unsere erste Java-Klasse die den Namen ``ErstesProgramm`` trägt. Diese Klasse enthält die ``main-Methode``. 
+``public class ErstesProgramm `` definiert unsere Klasse und muss in Jeder .java Datei stehen. Was genau public bedeutet und welche Optionen es noch gibt, werden wir später diskutieren. An der Position von ``ErstesProgramm`` muss immer der Dateiname stehen ohne die Endung.
 ``public static void main(String[] args)`` ist unser Ausdruck für die main-Methode. Er ist auch unser Start des Programmes, unser Programm schreiben wir zwischen die geschweiften Klammern nach unserer main-Methode. 
 
 ``System.out.println("Hello world!")`` ist unser Ausdruck um etwas in die Konsole zuschreiben.
@@ -96,3 +97,4 @@ System.out.println("Vor dem Inkrement: " + i); // Ausgabe: Vor dem Inkrement: 0
 System.out.println("Verwendung von i++: " + i++); // Ausgabe: Verwendung von i++: 0
 System.out.println("Nach dem Inkrement: " + i); // Ausgabe: Nach dem Inkrement: 1
 ```
+
