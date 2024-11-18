@@ -10,19 +10,19 @@ Eine VirtualBox ist ein Programm, mit dem du auf deinem Computer virtuelle Masch
    - Gib deiner virtuellen Maschine einen Namen, z.B. "LinuxTest".
    - Wähle "Linux" als Typ und "Ubuntu (64-bit)" als Version.
    
-![](Virtual01.png)
-![](Virtual02.png)
+![](Images/Virtual01.png)
+![](Images/Virtual02.png)
 2. **Speicher (RAM) festlegen**:
    - Wähle, wie viel Arbeitsspeicher (RAM) du der virtuellen Maschine geben möchtest. 2 GB (2048 MB) sind ein guter Start.
 
-![](Virtual03.png)
+![](Images/Virtual03.png)
 3. **Virtuelle Festplatte erstellen**:
    - Wähle "Jetzt eine virtuelle Festplatte erstellen".
    - Wähle "VDI (VirtualBox Disk Image)" als Festplattentyp.
    - Wähle "Dynamisch alloziert", damit die Festplatte nur so viel Platz auf deinem echten Computer belegt, wie sie tatsächlich braucht.
    - Lege die Größe der Festplatte fest, z.B. 20 GB.
 
-![](Virtual04.png)
+![](Images/Virtual04.png)
 
 4. **ISO-Datei einbinden**:
    - Wähle deine neue virtuelle Maschine aus und klicke auf "Ändern".
