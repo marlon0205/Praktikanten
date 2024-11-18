@@ -12,10 +12,12 @@ Eine VirtualBox ist ein Programm, mit dem du auf deinem Computer virtuelle Masch
    
 ![](Images/Virtual01.png)
 ![](Images/Virtual02.png)
+
 2. **Speicher (RAM) festlegen**:
    - Wähle, wie viel Arbeitsspeicher (RAM) du der virtuellen Maschine geben möchtest. 2 GB (2048 MB) sind ein guter Start.
 
 ![](Images/Virtual03.png)
+
 3. **Virtuelle Festplatte erstellen**:
    - Wähle "Jetzt eine virtuelle Festplatte erstellen".
    - Wähle "VDI (VirtualBox Disk Image)" als Festplattentyp.
