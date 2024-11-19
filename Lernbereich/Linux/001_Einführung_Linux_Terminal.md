@@ -32,6 +32,7 @@ Die Linux-Shell ist eine Schnittstelle, die es dir ermöglicht, mit dem Betriebs
     
     
 
+
 ### 2. Dateien und Verzeichnisse verwalten
 
 - **mkdir**: Erstellt ein neues Verzeichnis
@@ -67,6 +68,7 @@ Die Linux-Shell ist eine Schnittstelle, die es dir ermöglicht, mit dem Betriebs
     
     
 
+
 ### 3. Dateiinhalte anzeigen
 
 - **cat**: Zeigt den Inhalt einer Datei an
@@ -99,7 +101,7 @@ Die Linux-Shell ist eine Schnittstelle, die es dir ermöglicht, mit dem Betriebs
     tail datei.txt
     ```
     
-    
+
 ## Praktische Übungen
 
 1. Erstelle ein Verzeichnis namens projekt und wechsle in dieses Verzeichnis
