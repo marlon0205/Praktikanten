@@ -1,9 +1,3 @@
----
-tags:
-
----
-
-
 ![](https://i.ibb.co/fkkxKrM/linux2.png)
 
 Hallo und herzlich willkommen! Heute werden wir uns mit Linux beschäftigen, einem Betriebssystem, das in vielen Unternehmen und auf Servern weltweit verwendet wird. Keine Sorge, auch wenn du noch keine Vorkenntnisse hast, werden wir alles Schritt für Schritt durchgehen.
