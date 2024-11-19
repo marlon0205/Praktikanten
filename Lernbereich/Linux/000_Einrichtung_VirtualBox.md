@@ -15,7 +15,7 @@ Eine VirtualBox ist ein Programm, mit dem du auf deinem Computer virtuelle Masch
 2. **Speicher (RAM) und Prozessoren (CPU) festlegen**:
    - Wähle, wie viel Arbeitsspeicher (RAM) du der virtuellen Maschine geben möchtest. 2 GB (2048 MB) sind ein guter Start.
    - Wähle, wie viele Prozessoren (CPU) du der virtuellen Maschine geben möchtest. 2 CPUs
-   sind ein guter Start.![[Virtual03.png]]
+   sind ein guter Start.![](Images/Virtual03.png)
 
 3. **Virtuelle Festplatte erstellen**:
    - Wähle "Jetzt eine virtuelle Festplatte erstellen".
