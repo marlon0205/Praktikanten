@@ -69,7 +69,7 @@
     nano /var/www/deine_domain/index.html
     ```
     
-    Füge folgenden Inhalt hinzu:
+    Füge folgenden Inhalt hinzu oder schreibe deinen eigenen:
     
     HTML
     
