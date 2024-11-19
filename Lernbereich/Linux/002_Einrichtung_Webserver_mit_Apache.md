@@ -84,9 +84,6 @@
     </html>
     ```
     
-    KI-generierter Code. Überprüfen und sorgfältig verwenden. .
-    
-
 ## Schritt 6: Virtuellen Host konfigurieren
 
 11. **Virtuelle Host-Datei erstellen**:

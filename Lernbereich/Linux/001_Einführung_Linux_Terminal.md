@@ -20,8 +20,103 @@ Die Linux-Shell ist eine Schnittstelle, die es dir ermöglicht, mit dem Betriebs
 - less: Zeigt den Inhalt einer Datei seitenweise an
 - head: Zeigt die ersten Zeilen einer Datei an
 - tail: Zeigt die letzten Zeilen einer Datei an
+### 1. Navigieren im Dateisystem
 
+- **pwd**: Zeigt das aktuelle Verzeichnis an
+    
+    ```bash
+    pwd
+    ```
+    
+    
+    
+- **ls**: Listet die Dateien und Verzeichnisse im aktuellen Verzeichnis auf.
+    
+    ```bash
+    ls
+    ```
+    
+    
+    
+- **cd**: Wechselt das Verzeichnis
+    
+    ```bash
+    cd /pfad/zum/verzeichnis
+    ```
+    
+    
+    
+
+### 2. Dateien und Verzeichnisse verwalten
+
+- **mkdir**: Erstellt ein neues Verzeichnis
+    
+    ```bash
+    mkdir neuer_ordner
+    ```
+    
+    
+    
+- **touch**: Erstellt eine neue Datei
+    
+    ```bash
+    touch neue_datei.txt
+    ```
+    
+    
+    
+- **rm**: Löscht eine Datei
+    
+    ```bash
+    rm datei.txt
+    ```
+    
+    
+    
+- **rmdir**: Löscht ein leeres Verzeichnis
+    
+    ```bash
+    rmdir leerer_ordner
+    ```
+    
+    
+    
+
+### 3. Dateiinhalte anzeigen
+
+- **cat**: Zeigt den Inhalt einer Datei an
+    
+    ```bash
+    cat datei.txt
+    ```
+    
+    
+    
+- **less**: Zeigt den Inhalt einer Datei seitenweise an
+    
+    ```bash
+    less datei.txt
+    ```
+    
+    
+    
+- **head**: Zeigt die ersten Zeilen einer Datei an
+    
+    ```bash
+    head datei.txt
+    ```
+    
+    
+    
+- **tail**: Zeigt die letzten Zeilen einer Datei an
+    
+    ```bash
+    tail datei.txt
+    ```
+    
+    
 ## Praktische Übungen
+
 1. Erstelle ein Verzeichnis namens projekt und wechsle in dieses Verzeichnis
 2. Erstelle in diesem Verzeichnis drei neue Dateien: datei1.txt, datei2.txt und datei3.txt
 3. Liste die Dateien im Verzeichnis auf und überprüfe, ob sie erstellt wurden
