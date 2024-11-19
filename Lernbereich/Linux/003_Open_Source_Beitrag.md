@@ -1,5 +1,6 @@
 # Willkommen zu deinem ersten Open-Source-Beitrag!
 
+
 ## Übersicht
 
 Dieses Repository soll dir helfen, deine ersten Schritte in der Welt der Open-Source-Beiträge zu machen. Hier findest du eine Liste von Projekten, die Hilfe benötigen, sowie einfache Anleitungen, wie du Pull-Requests erstellst und mit Maintainers kommunizierst.
@@ -12,6 +13,9 @@ Dieses Repository soll dir helfen, deine ersten Schritte in der Welt der Open-So
 4. Kommunikation mit Maintainers
 5. Nützliche Ressourcen
 
+
+
+
 ## Einführung in Open Source
 
 Open-Source-Software ist Software, deren Quellcode öffentlich zugänglich ist. Jeder kann den Code einsehen, ändern und verbessern. Das Mitwirken an Open-Source-Projekten bietet viele Vorteile:
@@ -20,6 +24,9 @@ Open-Source-Software ist Software, deren Quellcode öffentlich zugänglich ist. 
 - **Netzwerken**: Knüpfe Kontakte zu Entwicklern weltweit.
 - **Portfolio**: Zeige deine Fähigkeiten potenziellen Arbeitgebern.
 - **Gemeinschaft**: Trage zur Verbesserung von Software bei, die von vielen Menschen genutzt wird.
+
+
+
 
 ## Liste von Projekten
 
@@ -37,6 +44,9 @@ Hier sind einige Projekte, die für Anfänger geeignet sind:
     
     - GitHub Repository
     - Issues: `good first issue`
+
+
+
 
 ## Anleitung: Erstellen eines Pull-Requests
 
@@ -69,14 +79,20 @@ Hier sind einige Projekte, die für Anfänger geeignet sind:
     
 7. **Erstelle einen Pull-Request**: Gehe zu deinem geforkten Repository auf GitHub und klicke auf “Compare & pull request”. Beschreibe deine Änderungen und reiche den Pull-Request ein.
 
+
+
+
 ## Kommunikation mit Maintainers
 
 - **Sei höflich und respektvoll**: Denke daran, dass Maintainers oft freiwillig arbeiten.
 - **Stelle klare Fragen**: Wenn du Hilfe benötigst, formuliere deine Fragen klar und präzise.
 - **Lese die Dokumentation**: Viele Projekte haben eine `CONTRIBUTING.md`-Datei, die erklärt, wie man Beiträge leistet.
 
+
+
+
 ## Nützliche Ressourcen
 
-- [How to Contribute to Open Source]([GitHub - freeCodeCamp/how-to-contribute-to-open-source: A guide to contributing to open source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source))
-- [First Timers Only]([How to Start Contributing to Open Source Projects](https://daily.dev/blog/how-to-start-contributing-to-open-source-projects))
-- [GitHub Learning Lab]([Making Your First Open-source Contribution: A Beginner's Guide - DEV Community](https://dev.to/timonwa/making-your-first-open-source-contribution-a-beginners-guide-2kla))
+- [How to Contribute to Open Source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)
+- [First Timers Only](https://daily.dev/blog/how-to-start-contributing-to-open-source-projects)
+- [GitHub Learning Lab](https://dev.to/timonwa/making-your-first-open-source-contribution-a-beginners-guide-2kla)
