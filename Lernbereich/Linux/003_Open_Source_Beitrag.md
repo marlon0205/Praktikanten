@@ -1,10 +1,10 @@
-## Willkommen zu deinem ersten Open-Source-Beitrag!
+# Willkommen zu deinem ersten Open-Source-Beitrag!
 
-### Übersicht
+## Übersicht
 
 Dieses Repository soll dir helfen, deine ersten Schritte in der Welt der Open-Source-Beiträge zu machen. Hier findest du eine Liste von Projekten, die Hilfe benötigen, sowie einfache Anleitungen, wie du Pull-Requests erstellst und mit Maintainers kommunizierst.
 
-### Inhaltsverzeichnis
+## Inhaltsverzeichnis
 
 1. Einführung in Open Source
 2. Liste von Projekten
@@ -12,7 +12,7 @@ Dieses Repository soll dir helfen, deine ersten Schritte in der Welt der Open-So
 4. Kommunikation mit Maintainers
 5. Nützliche Ressourcen
 
-### Einführung in Open Source
+## Einführung in Open Source
 
 Open-Source-Software ist Software, deren Quellcode öffentlich zugänglich ist. Jeder kann den Code einsehen, ändern und verbessern. Das Mitwirken an Open-Source-Projekten bietet viele Vorteile:
 
@@ -21,7 +21,7 @@ Open-Source-Software ist Software, deren Quellcode öffentlich zugänglich ist. 
 - **Portfolio**: Zeige deine Fähigkeiten potenziellen Arbeitgebern.
 - **Gemeinschaft**: Trage zur Verbesserung von Software bei, die von vielen Menschen genutzt wird.
 
-### Liste von Projekten
+## Liste von Projekten
 
 Hier sind einige Projekte, die für Anfänger geeignet sind:
 
@@ -38,7 +38,7 @@ Hier sind einige Projekte, die für Anfänger geeignet sind:
     - GitHub Repository
     - Issues: `good first issue`
 
-### Anleitung: Erstellen eines Pull-Requests
+## Anleitung: Erstellen eines Pull-Requests
 
 1. **Fork das Repository**: Klicke auf die Schaltfläche “Fork” oben rechts im Repository, um eine Kopie des Projekts in deinem GitHub-Konto zu erstellen.
 2. **Klone das Repository**: Klone das geforkte Repository auf deinen lokalen Computer.
@@ -69,13 +69,13 @@ Hier sind einige Projekte, die für Anfänger geeignet sind:
     
 7. **Erstelle einen Pull-Request**: Gehe zu deinem geforkten Repository auf GitHub und klicke auf “Compare & pull request”. Beschreibe deine Änderungen und reiche den Pull-Request ein.
 
-### Kommunikation mit Maintainers
+## Kommunikation mit Maintainers
 
 - **Sei höflich und respektvoll**: Denke daran, dass Maintainers oft freiwillig arbeiten.
 - **Stelle klare Fragen**: Wenn du Hilfe benötigst, formuliere deine Fragen klar und präzise.
 - **Lese die Dokumentation**: Viele Projekte haben eine `CONTRIBUTING.md`-Datei, die erklärt, wie man Beiträge leistet.
 
-### Nützliche Ressourcen
+## Nützliche Ressourcen
 
 - [How to Contribute to Open Source]([GitHub - freeCodeCamp/how-to-contribute-to-open-source: A guide to contributing to open source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source))
 - [First Timers Only]([How to Start Contributing to Open Source Projects](https://daily.dev/blog/how-to-start-contributing-to-open-source-projects))
