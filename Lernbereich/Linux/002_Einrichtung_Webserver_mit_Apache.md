@@ -1,3 +1,10 @@
+## Was ist Apache?
+
+Der **Apache HTTP Server**, oft einfach **Apache** genannt, ist ein **freier und plattformunabhängiger Webserver**. Er wurde 1995 von der Apache Software Foundation entwickelt und ist einer der meistgenutzten Webserver im Internet.
+
+Apache ist **modular aufgebaut**, was bedeutet, dass er durch verschiedene Module erweitert werden kann, um zusätzliche Funktionen zu bieten. Er unterstützt viele Betriebssysteme wie Linux, Windows und macOS und kann mit verschiedenen Skriptsprachen wie PHP, Perl und Python arbeiten
+
+Einfach gesagt, Apache ist eine Software, die Webseiten im Internet bereitstellt. Wenn du eine Webseite besuchst, sendet dein Browser eine Anfrage an den Server, auf dem die Webseite gespeichert ist. Apache empfängt diese Anfrage und liefert die entsprechenden Inhalte (wie Texte, Bilder und Videos) an deinen Browser zurück
 ## Schritt 1: Apache installieren
 
 1. **Systempakete aktualisieren**:
