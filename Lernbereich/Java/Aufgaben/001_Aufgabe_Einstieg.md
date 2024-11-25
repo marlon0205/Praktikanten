@@ -14,3 +14,16 @@ Erstelle ein Java-Programm, das den Durchschnitt von drei Zahlen berechnet und d
 			<li> <strong> Ergebnis ausgeben</strong>: Gib das Ergebnis auf der Konsole aus. </li> 
 		</ol>
 </details>
+
+
+### Zweite Aufgabe:
+Ich brauche ein Programm welches eine Alterskategorie ausgibt basierend auf ein Alter welches in einer Variable notiert wird. Unten siehst du eine Tabelle mit welcher du siehst welches Alter zu welcher Kategorie gehört
+
+| Alter    | Alterskategorie |
+| -------- | --------------- |
+| 0-12     | Kind            |
+| 13-19    | Teenager        |
+| 20-64    | Erwachsener     |
+| über 65  | Senior          |
+| über 200 | Alien           |
+| unter 0  | ungültig        |
