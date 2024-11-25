@@ -4,7 +4,7 @@ Eine Entwicklungsumgebung ist eine Software, die Programmierer beim Schreiben, T
 Sie bietet einen Code-Editor, Compiler, Debugger oder sonstige Tools, um die Entwicklung effizienter und angenehmer für den Entwickler zu machen.
 
 ### IDEs
-- Intellij IDEA - [Download]([Laden Sie IntelliJ IDEA herunter – die führende Java- und Kotlin-IDE](https://www.jetbrains.com/de-de/idea/download/?section=windows))
+- Intellij IDEA - [Download](https://www.jetbrains.com/de-de/idea/download/?section=windows)
 - Eclipse
 - NetBeans
 
