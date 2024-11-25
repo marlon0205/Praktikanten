@@ -1,0 +1,3 @@
+
+
+### Erste Lösung: Durchschnitt Berechnen
