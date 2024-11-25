@@ -1,10 +1,3 @@
----
-tags:
-  - java
-  - einführung
-  - tutorial
-  - software
----
 
 ## Was ist eine Entwicklungsumgebung
 Eine Entwicklungsumgebung ist eine Software, die Programmierer beim Schreiben, Testen und Debuggen von Code unterstützt. 
