@@ -1,6 +1,6 @@
 
 
-### Erste Lösung: Durchschnitt Berechnen
+### 1. Erste Lösung: Durchschnitt Berechnen
 ```java
 public class AverageCalculator {
     public static void main(String[] args) {
@@ -14,6 +14,29 @@ public class AverageCalculator {
 
         // Ausgabe des Ergebnisses
         System.out.println("Der Durchschnitt der Zahlen ist: " + average);
+    }
+}
+```
+
+### 2. Zweite Lösung: Alterskategorie
+```java
+public class AgeCategorizer {
+    public static void main(String[] args) {
+        // Altersvariable deklarieren und initialisieren
+        int age = 25; // Beispielwert, kann geändert werden
+
+        // Alterskategorisierung
+        if (age >= 0 && age <= 12) {
+            System.out.println("Sie sind ein Kind.");
+        } else if (age >= 13 && age <= 19) {
+            System.out.println("Sie sind ein Teenager.");
+        } else if (age >= 20 && age <= 64) {
+            System.out.println("Sie sind ein Erwachsener.");
+        } else if (age >= 65) {
+            System.out.println("Sie sind ein Senior.");
+        } else {
+            System.out.println("Ungültiges Alter eingegeben.");
+        }
     }
 }
 ```
