@@ -1,12 +1,3 @@
----
-tags:
-  - java
-  - tutorial
-  - erklärung
-  - einführung
-aliases:
-  - 000EIJ
----
 ## Einstieg in die Java Entwicklung
 Hier findest du Dokumentation zum Einstieg in die Java Entwicklung.
 
