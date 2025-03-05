@@ -25,7 +25,7 @@
     - Ziel: Deinen ersten Docker-Container starten und die Funktionsweise von Docker in Aktion sehen.
     - Schritte:
         - Einen "Hello World"-Container starten:
-            - Im Terminal gibst du `docker run dockerhub.registry.inter.de/hello-world` ein und drückst Enter.
+            - Im Terminal gibst du `docker run dockerhub.registry.domain.de/hello-world` ein und drückst Enter.
             - Docker wird ein spezielles „hello-world“-Ima`e aus dem Internet herunterladen, wenn es nicht bereits auf deinem Computer vorhanden ist.
             - Nachdem das Image heruntergeladen wurde, startet Docker einen Container basierend auf diesem Image. Der Container führt ein kleines Programm aus, das „Hello from Docker!“ ausgibt und dann beendet wird.
         - Ergebnis ansehen:
@@ -54,7 +54,7 @@
 
             ```Dockerfile
 
-            FROM dockerhub.registry.inter.de/alpine
+            FROM dockerhub.registry.domain.de/alpine
             CMD ["echo", "Hallo Docker!"]
 
             ```
@@ -85,7 +85,7 @@
 
             ```bash
 
-            docker run --name mein_webserver -d -p 8080:80 dockerhub.registry.inter.de/nginx
+            docker run --name mein_webserver -d -p 8080:80 dockerhub.registry.domain.de/nginx
 
             ```
             Dieser Befehl startet einen Container mit Nginx, einem sehr beliebten Webserver. Der `-name` Schalter gibt dem Container den Namen `mein_webserver`. Der `-d` Schalter sorgt dafür, dass der Container im Hintergrund läuft (detached mode), und `-p 8080:80` weist Docker an, den internen Port 80 des Containers auf Port 8080 deines Computers zu mappen.
