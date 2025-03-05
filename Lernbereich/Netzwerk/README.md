@@ -5,7 +5,7 @@ tags:
 - Einführung
 ---
 
-# Übersicht der gängigen Netzwerkgerät und Begriffe 
+# Übersicht der gängigen Netzwerkgeräte und Begriffe 
 
 ![Netzwerk](images/Bild1.png)
 
