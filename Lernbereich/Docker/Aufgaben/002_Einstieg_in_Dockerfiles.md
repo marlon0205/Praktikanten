@@ -5,7 +5,7 @@ C Applikationen verwendet werden kann.
 
 1. Erstelle eine Datei mit dem Namen `Dockerfile`.
 1. Die Dockerfile soll `Debian 12.5` als Baseimage verwenden.
-1. Setze den Vendor auf `NORMRISK Develop @INTER Versicherungsgruppe`
+1. Setze den Vendor auf `NORMRISK Develop @FIRMANAME`
 1. Es sollen die neuesten Updates installiert sein
 1. Folgende Applikationen sollen vorinstalliert werden
     - wget 
