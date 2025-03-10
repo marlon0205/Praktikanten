@@ -1,10 +1,13 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 tags:
 
 ---
 
 
+=======
+>>>>>>> origin/main
 =======
 >>>>>>> origin/main
 ![](https://i.ibb.co/fkkxKrM/linux2.png)
