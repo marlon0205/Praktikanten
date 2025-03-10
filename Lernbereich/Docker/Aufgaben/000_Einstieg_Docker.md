@@ -26,7 +26,7 @@
     - Schritte:
         - Einen "Hello World"-Container starten:
             - Im Terminal gibst du `docker run dockerhub.registry.domain.de/hello-world` ein und drückst Enter.
-            - Docker wird ein spezielles „hello-world“-Ima`e aus dem Internet herunterladen, wenn es nicht bereits auf deinem Computer vorhanden ist.
+            - Docker wird ein spezielles „hello-world“-Image aus dem Internet herunterladen, wenn es nicht bereits auf deinem Computer vorhanden ist.
             - Nachdem das Image heruntergeladen wurde, startet Docker einen Container basierend auf diesem Image. Der Container führt ein kleines Programm aus, das „Hello from Docker!“ ausgibt und dann beendet wird.
         - Ergebnis ansehen:
             - Schau dir die Ausgabe im Terminal an. Du solltest eine Nachricht sehen, die erklärt, dass Docker erfolgreich funktioniert hat. Diese einfache Ausgabe zeigt dir, dass Docker Container schnell starten kann, um Programme auszuführen.
